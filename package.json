@@ -1,0 +1,25 @@
+{
+  "name": "newsportal",
+  "version": "1.0.0",
+  "description": "This is a news portal",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weslley-Prado/node.git"
+  },
+  "author": "\"WRP\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weslley-Prado/node/issues"
+  },
+  "homepage": "https://github.com/Weslley-Prado/node#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "install": "^0.13.0",
+    "mysql": "^2.18.1"
+  }
+}
